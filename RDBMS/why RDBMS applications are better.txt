@@ -1,0 +1,7 @@
+* The ability to create tables and enter data into them
+
+* An interactive query language
+
+* Retrieval of information stored in more than one table.
+
+* Provides a catalog or dictionary, which itself consists of tables

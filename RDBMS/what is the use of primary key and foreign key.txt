@@ -1,0 +1,1 @@
+The only purpose of the primary key in the primary key/foreign key pair is to provide an unambiguous join - to maintain referential integrity with respect to the "foreign" table which holds the referenced primary key. This insures that the value to which the foreign key refers will always be valid (or null, if allowed).

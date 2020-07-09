@@ -1,0 +1,2 @@
+-> The key difference is that RDBMS (relational database management system) applications store data in a tabular form, while DBMS applications store data as files.
+
